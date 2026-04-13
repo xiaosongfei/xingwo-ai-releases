@@ -9,7 +9,6 @@
 | 版本 | 说明 | 下载 |
 |------|------|------|
 | v1.0.2 | 修复图片轮询状态识别、延长超时至10分钟、新用户数据隔离 | [立即下载](https://github.com/xiaosongfei/xingwo-ai-releases/releases/tag/v1.0.2) |
-| v1.0.1 | 修复视频联动执行、ComfyUI视频上传、防盗链图片处理 | [立即下载](https://github.com/xiaosongfei/xingwo-ai-releases/releases/tag/v1.0.1) |
 
 ## 主要功能
 
