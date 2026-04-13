@@ -10,6 +10,10 @@
 |------|------|------|
 | v1.0.2 | 修复图片轮询状态识别、延长超时至10分钟、新用户数据隔离 | [立即下载](https://github.com/xiaosongfei/xingwo-ai-releases/releases/tag/v1.0.2) |
 
+## 软件截图
+
+![星沃AI画布截图](https://github.com/xiaosongfei/xingwo-ai-releases/raw/main/ScreenShot_2026-04-13_215540_251.png)
+
 ## 主要功能
 
 - **无限画布**：自由拖拽节点，搭建专属 AI 工作流
